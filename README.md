@@ -4,7 +4,7 @@ The goal of this project is to predict the perceived pleasantness of an odour ba
 
 Our repository is composed :
 - Src folder : it contains the code which is organized in 4 jupyter notebooks. One for the exploration of the data, one for the linear methods and two for non-linear methods (one for neural networks and one for tree methods).
-- Data folder : it contains the training data that we used to find relevant models, the test data that we used to do our Kaggle submission after selecting the best predicted models on the training data. It contains also an example of a Kaggle submission and our two submissions : one with random forest (Sub7.csv) and one with gradient boosting (Sub5.cvs). The code to fill this files is furnished in the tree notebook.
+- Data folder : it contains the training data that we used to find relevant models, the test data that we used to do our Kaggle submission after selecting the best predicted models on the training data. It contains also an example of a Kaggle submission and our two submissions : one with random forest (Sub7.csv) and one with gradient boosting (Sub5.csv). The code to fill this files is furnished in the tree notebook.
 - The report : It is a pdf file that summarize our results and our decision process.
 - The readme
 
